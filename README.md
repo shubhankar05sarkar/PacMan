@@ -2,7 +2,7 @@
 
 This project is a faithful recreation of the classic arcade game Pac-Man, built using Python and Pygame. The game captures the nostalgic feel of the original while demonstrating key programming concepts such as game loops, sprite animations, collision detection, and basic artificial intelligence using Breadth-First Search (BFS) for enemy movement.
 
-How the Game is Played
+## How the Game is Played
 
 ## Objective:
 The main goal of the game is to navigate Pac-Man through a maze, eat all the small pellets (dots) and power pellets (bigger dots), and ultimately win the level by clearing the maze. In addition, when Pac-Man eats a power pellet, he gains a temporary ability to eat ghosts for extra points.
@@ -135,15 +135,15 @@ Overall, this Pac-Man project is not only a fun game to play but also an excelle
 
 ### Main Screen / UI
 
-*(Add your screenshot for the main screen here)*
+![Pac-Man UI](https://github.com/shubhankar05sarkar/Pac-Man/blob/e0478e9ec01515bd91ac5320009d88e2e1284ba5/Screenshot%202025-04-04%20125724.png)
 
 ### Game Over Screen
 
-*(Add your screenshot for when Pac-Man loses here)*
+![Game Over Screen](https://github.com/shubhankar05sarkar/Pac-Man/blob/e0478e9ec01515bd91ac5320009d88e2e1284ba5/Screenshot%202025-04-04%20125743.png)
 
 ### Victory Screen
 
-*(Add your screenshot for when you win the game here)*
+![Victory Screen](https://github.com/shubhankar05sarkar/Pac-Man/blob/e0478e9ec01515bd91ac5320009d88e2e1284ba5/Screenshot%202025-04-04%20125849.png)
 
 ---
 
@@ -168,10 +168,10 @@ Overall, this Pac-Man project is not only a fun game to play but also an excelle
 
 ---
 
-## Author
+## **Author**
 
-Made with ❤️ by **Shubhankar Sarkar**  
-[Your GitHub Profile](https://github.com/yourusername)
+Created with ❤️ by **Shubhankar Sarkar**.  
+[GitHub Profile](https://github.com/shubhankar05sarkar)
 
 ---
 
@@ -180,4 +180,3 @@ Made with ❤️ by **Shubhankar Sarkar**
 
 ---
 
-Feel free to modify any part of the README to match your project details or personal style.
