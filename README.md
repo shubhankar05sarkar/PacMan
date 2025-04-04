@@ -24,7 +24,7 @@ Esc/Q: Quit the game or exit once the game is over.
 The maze is designed using a grid-based layout where walls, pellets, and power pellets are defined by a set of characters. Walls (#) block movement, while pellets (.) and power pellets (o) are items to be collected.
 
 ### Pellet Collection:
-As Pac-Man moves through the maze, he collects pellets. Each normal pellet increases your score by a small amount, and each power pellet gives a larger score bonus along with temporarily empowering Pac-Man to eat ghosts.
+As Pac-Man moves through the maze, he collects pellets. Each normal pellet increases your score by 10 points, and each power pellet gives 50 points.
 
 ### Ghosts and AI:
 The maze is also populated with ghosts. These ghosts use a simple AI based on BFS to chase Pac-Man. This means that the ghosts constantly calculate the shortest path to Pac-Man while navigating around walls. If a ghost catches Pac-Man (i.e., occupies the same grid cell), the game is over.
@@ -36,7 +36,7 @@ Win Condition: The game is won when Pac-Man successfully collects all the pellet
 Lose Condition: The game is lost if any ghost catches Pac-Man before all pellets are eaten.
 
 ## Scoring:
-Points are awarded for collecting pellets. Normal pellets and power pellets contribute different point values to your overall score. Eating ghosts while powered up can also yield bonus points.
+Points are awarded for collecting pellets. Normal pellets and power pellets contribute different point values to your overall score.
 
 ## Game Flow
 
@@ -51,9 +51,6 @@ As Pac-Man moves over a pellet’s location, the pellet is removed from the maze
 
 ### Ghost Chase:
 Meanwhile, the ghosts are actively chasing Pac-Man using BFS. They determine the shortest route to Pac-Man and move one tile at a time. If a ghost and Pac-Man occupy the same cell, the game is over.
-
-### Power-Up Mode:
-When Pac-Man collects a power pellet, he temporarily gains the ability to eat ghosts. During this brief period, the ghosts become vulnerable, and if Pac-Man eats one, he gains extra points.
 
 ### End Game:
 The game ends in one of two ways:
