@@ -55,11 +55,12 @@ Meanwhile, the ghosts are actively chasing Pac-Man using BFS. They determine the
 ### End Game:
 The game ends in one of two ways:
 
-### Victory: If you manage to eat all pellets, you win the game.
+Victory: If you manage to eat all pellets, you win the game.
 
-### Defeat: If a ghost catches Pac-Man, the game is over.
+Defeat: If a ghost catches Pac-Man, the game is over.
 
 Overall, this Pac-Man project is not only a fun game to play but also an excellent learning resource for understanding the core mechanics behind classic arcade games and basic AI algorithms in a grid-based environment.
+
 ---
 
 ## Features
@@ -171,7 +172,6 @@ Created with ❤️ by **Shubhankar Sarkar**.
 ---
 
 *Enjoy playing and happy coding!*
-```
 
 ---
 
