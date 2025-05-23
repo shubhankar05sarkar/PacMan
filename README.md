@@ -2,7 +2,7 @@
 
 This project is a faithful recreation of the classic arcade game Pac-Man, built using Python and Pygame. The game captures the nostalgic feel of the original while demonstrating key programming concepts such as game loops, sprite animations, collision detection, and basic artificial intelligence using Breadth-First Search (BFS) for enemy movement.
 
-## Objective:
+## Objective: 
 The main goal of the game is to navigate Pac-Man through a maze, eat all the small pellets (dots) and power pellets (bigger dots), and ultimately win the level by clearing the maze.
 
 ## Controls:
