@@ -5,7 +5,7 @@ This project is a faithful recreation of the classic arcade game Pac-Man, built 
 ## Objective: 
 The main goal of the game is to navigate Pac-Man through a maze, eat all the small pellets (dots) and power pellets (bigger dots), and ultimately win the level by clearing the maze.
 
-## Controls: 
+## Controls:
 The game is controlled via the keyboard's arrow keys:
 
 Up Arrow: Move Pac-Man up.
