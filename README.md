@@ -127,7 +127,7 @@ Overall, this Pac-Man project is not only a fun game to play but also an excelle
 
 ---
 
-## Screenshots
+## User Interface
 
 ### Main Screen / UI
 
